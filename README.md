@@ -1,6 +1,6 @@
 # PyBer_Analysis
 # Overview of the Analysis
-My assignment included a ride-sharing summary dataframe by city type and a line chart of total fars for each city type.  I am tasked with summarizes how the data is different by city type as well as provide business recommendations that could be made to improve operations.
+My assignment included a ride-sharing summary dataframe by city type and a line chart of total fares for each city type.  I am tasked with summarizes how the data is different by city type as well as provide business recommendations that could be made to improve operations.
 
 # Results
 My first dataframe summary which is pictured below shows some of the differences by city type below.  I will describe some of the key items noted in differences:
