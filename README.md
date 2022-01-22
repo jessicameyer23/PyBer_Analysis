@@ -7,7 +7,7 @@
 
 
 
-![image_name]
+![image_name](https://github.com/jessicameyer23/PyBer_Analysis/blob/main/Resources/Data%20frame%20by%20city%20type.2022-01-22%20105822.png?raw=true)
 
 
 
