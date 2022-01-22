@@ -5,7 +5,7 @@ My assignment included a ride-sharing summary dataframe by city type and a line 
 # Results
 My first dataframe summary which is pictured below shows some of the differences by city type below.  I will describe some of the key items noted in differences:
 
-1. **Total Rides and Total Drivers: **
+1. Total Rides and Total Drivers: 
 
 The total rides is much less for rural, with a total ride count of 125 compared to suburban rides of 625 and urban rides of 1,625.  Drivers significantly increase from rural to urban as well, increasing from 78 rural drivers, to 490 suburban drivers to 2,405 urban drivers.  One interesting note takeaway is that calculating average rides per driver, shows that in the urban area, there are more drivers than total rides so on average the ride per driver is less than one.  However, on the rural side, the rides are much more than the number of drivers, so the average number of rides per driver is greater than one.
 
