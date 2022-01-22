@@ -7,7 +7,7 @@ My first dataframe summary which is pictured below shows some of the differences
 
 1. Total Rides and Total Drivers: 
 
-The total rides is much less for rural, with a total ride count of 125 compared to suburban rides of 625 and urban rides of 1,625.  Drivers significantly increase from rural to urban as well, increasing from 78 rural drivers, to 490 suburban drivers to 2,405 urban drivers.  One interesting takeaway is that calculating average rides per driver, shows that in the urban area, there are more drivers than total rides so on average the ride per driver is less than one.  However, on the rural side, the rides are much more than the number of drivers, so the average number of rides per driver is greater than one.
+The total rides is much less for rural, with a total ride count of 125 compared to suburban rides of 625 and urban rides of 1,625.  Drivers significantly increase from rural to urban as well, increasing from 78 rural drivers, to 490 suburban drivers to 2,405 urban drivers.  One interesting takeaway is that when you calculate the average rides per driver, this shows that in the urban area, there are more drivers than total rides so on average the ride per driver is less than one.  However, on the rural side, the rides are much more than the number of drivers, so the average number of rides per driver is greater than one.
 
 2.  **Total Fares, Average Ride per Fare and Average Fare per Driver:**
 
